@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SeleccionarDificultad.unity
+    guid: aaf3c4cfc4edf1f499c6994d90ad85a0
+  - enabled: 1
+    path: Assets/Scenes/Ganaste.unity
+    guid: 36d50a9ca85c1fc46986214307e55cf1
+  - enabled: 1
+    path: Assets/Scenes/Perdiste.unity
+    guid: cb4e2388f18d53742a51678bfd339d7e
+  - enabled: 1
+    path: Assets/Scenes/ModoDificil.unity
+    guid: 1db4c2a28ab49a54bb2a5b191db13364
+  - enabled: 1
+    path: Assets/Scenes/ModoFacil.unity
+    guid: 8a926dffe9dbd264bbf8a669baf42e66
+  - enabled: 1
+    path: Assets/Scenes/ModoNormal.unity
+    guid: 9977e767d5280fc46880500fbe7fb022
+  m_configObjects: {}
